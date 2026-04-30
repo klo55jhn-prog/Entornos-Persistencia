@@ -32,7 +32,7 @@ Lo que más destaco es la capacidad de tratar los datos como **objetos reales** 
 
 | Nomre | Rol | GitHub |
 | :--- | :--- | :--- |
-| **Carlos** | Lead Developer - DAM | [@tu-usuario](https://github.com/tu-usuario) |
+| **Carlos** | Lead Developer - DAM |
 
 ---
 
