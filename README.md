@@ -21,3 +21,13 @@ Reflexión Final: Aunque JDBC ofrece un control total y un rendimiento ligeramen
 
 👤 Autor
 Tu Nombre: Carlos
+🏁 Conclusión Final
+Tras completar la Tarea UD17, la conclusión es clara: Hibernate le da mil vueltas a JDBC en cuanto a comodidad y limpieza de código.
+
+Ahorro de tiempo: Lo mejor ha sido no tener que escribir ni un solo INSERT o UPDATE a mano; el mapeo por anotaciones (@Entity) se encarga de todo y evita errores típicos de sintaxis en el SQL.
+
+Código más profesional: Usar un ORM permite que el código de la aplicación sea mucho más legible, tratando los datos como objetos reales y no como simples filas de una tabla.
+
+Flexibilidad: El uso del archivo hibernate.cfg.xml permite que, si mañana queremos cambiar de MySQL a otra base de datos, no tengamos que tocar ni una línea de la lógica del programa, solo cambiar el dialecto.
+
+En resumen: Aunque configurar Hibernate al principio (Maven, dependencias y el XML) es un poco más lío que JDBC, merece totalmente la pena para cualquier proyecto que sea un poco grande por lo fácil que hace el mantenimiento y la escalabilidad de la aplicación.
