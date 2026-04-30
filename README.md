@@ -30,8 +30,8 @@ Lo que más destaco es la capacidad de tratar los datos como **objetos reales** 
 
 ## 👤 Autor
 
-| Nomre | Rol | GitHub |
-| :--- | :--- | :--- |
+| Nomre | Rol | 
+| :--- | :--- |
 | **Carlos** | Lead Developer - DAM |
 
 ---
